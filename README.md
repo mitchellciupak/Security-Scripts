@@ -2,6 +2,7 @@
 The topics covered in the exam range from Stream Ciphers (Lecture 9.6) to Hashing (Lecture 15.8)
 
 ## Topics/Directories
+```
 .
 ├── CertificateAuthority
 ├── ChineeseRemainderTheorem
@@ -65,3 +66,4 @@ The topics covered in the exam range from Stream Ciphers (Lecture 9.6) to Hashin
 └── README.md
 
 19 directories, 41 files
+```
