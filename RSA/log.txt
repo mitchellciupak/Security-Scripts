@@ -1,0 +1,16 @@
+ 999  09/03/21 17:56:45 cd 404ECE/
+ 1000  09/03/21 17:56:48 cd ECE404/
+ 1001  09/03/21 17:57:46 git pull origin main
+ 1002  09/03/21 17:58:09 turnin -c ece404 -p hw06 rsa.py breakRSA.py
+ 1003  09/03/21 17:58:16 time
+ 1004  09/03/21 17:58:20 turnin -c ece404 -p hw06 rsa.py breakRSA.py
+ 1005  09/03/21 17:58:31 ls
+ 1006  09/03/21 17:58:35 cd RSA/
+ 1007  09/03/21 17:58:36 turnin -c ece404 -p hw06 rsa.py breakRSA.py
+ 1008  09/03/21 17:58:39 ls
+ 1009  09/03/21 17:59:00 turnin -c ece404 -p hw06 rsa.py breakRSA.py
+ 1010  09/03/21 18:01:05 history
+ 1011  09/03/21 18:03:28 HISTTIMEFORMAT="%d/%m/%y %T "
+ 1012  09/03/21 18:03:47 history
+ 1013* 09/03/21 18:06:23
+ 1014  09/03/21 18:06:45 history > log.txt
